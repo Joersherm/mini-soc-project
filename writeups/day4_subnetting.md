@@ -1,5 +1,11 @@
 # Day 4: Subnetting
 
+## Concepts
+- Subnetting splits the network into smaller partitions.
+- The subnet mask decides which devices belong to the same network.
+- Routers are essential for the communication process between different networks.
+- Segmentation is necessary for networking purposes.
+
 ## /24 Explained
 
 An IP address with `/24` means that the first 24 bits refer to the network portion of the address, while the remaining 8 bits identify the host on the network.
