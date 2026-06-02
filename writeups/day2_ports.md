@@ -1,4 +1,4 @@
-# Day 1: Ports
+# Day 2: Ports
 
 ## Objective
 Understand how ports are used to access specific features and services
