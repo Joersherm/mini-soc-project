@@ -1,4 +1,4 @@
-# Day 9 – Linux Permissions
+# Day 6: Linux Permissions
 
 ## Objective
 
