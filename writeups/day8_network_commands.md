@@ -58,7 +58,7 @@ Retrieves data from a website.
 
 ---
 
-## Key Concepts Learned
+## Key Concepts
 
 - ping: Tests connectivity to another host
 - traceroute: Shows the route packets take through the network
